@@ -15,8 +15,6 @@ a {
     text-decoration: none;
 }
 
-/* Navbar */
-
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -53,8 +51,6 @@ a {
 .nav-links a:hover {
     color: #6658e8;
 }
-
-/* Hero */
 
 .hero {
     min-height: 560px;
@@ -132,7 +128,6 @@ a {
     color: #777;
 }
 
-/* Categories */
 
 .categories {
     display: grid;
@@ -162,7 +157,6 @@ a {
     font-size: 14px;
 }
 
-/* College Cards */
 
 .colleges {
     display: grid;
@@ -211,8 +205,6 @@ a {
     font-weight: bold;
 }
 
-/* Why Section */
-
 .why {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -250,8 +242,6 @@ a {
     margin: 12px 0 25px;
 }
 
-/* Footer */
-
 footer {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -284,8 +274,6 @@ footer p {
     padding-top: 20px;
     border-top: 1px solid #ffffff22;
 }
-
-/* Responsive */
 
 @media (max-width: 850px) {
 
